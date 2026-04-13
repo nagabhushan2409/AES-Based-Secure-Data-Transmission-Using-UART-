@@ -46,4 +46,5 @@ The project ensures secure and reliable serial communication, making it suitable
 - Low-power optimization
 
 ## Author
-Your Name
+D.NAGA BHUSHAN
+
